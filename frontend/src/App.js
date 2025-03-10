@@ -15,7 +15,7 @@ import UpdateReservationForm from './user/pages/pasindu/reservation/UpdateReserv
 import RestaurentList from './user/pages/pasindu/restaurent/RestaurentList';
 import RestaurentDetails from './user/pages/pasindu/restaurent/RestaurentDetails';
 
-import LoginPage from './pages/tharusha/UserSignupPage';
+import LoginPage from './pages/tharusha/LoginPage';
 import UserSignupPage from './pages/tharusha/UserSignupPage';
 import ManagerSignupPage from './pages/tharusha/ManagerSignupPage';
 
